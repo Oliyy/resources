@@ -1,20 +1,20 @@
-# Beautiful Discord Community - Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/beautiful-discord-community/resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
+# DTinker - Discord Resources [![Build Status](https://travis-ci.org/beautiful-discord-community/resources.svg?branch=master)](https://travis-ci.org/dtinker/discord-resources) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/EDwd5wr)
 
-A curated list of awesome [Beautiful Discord](https://github.com/leovoel/BeautifulDiscord) resources. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
-This project attempts to make end-user life easier by requiring contributors to add working `@import`able Embed links.
+This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
 
-If you encounter a problem while installing BeautifulDiscord, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/beautiful-discord-community/resources/wiki/Installing-BeautifulDiscord) for a more in-depth installation guide.
+If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) for a more in-depth installation guide.
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/beautiful-discord-community/resources/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/beautiful-discord-community/resources/graphs/contributors); you rock!
+Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors), you rock!
 
-#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!*
 
 ### Contents
 
-- [Beautiful Discord Community - Resources](#beautiful-discord-community---themes-)
+- [DTinker - Discord Resources](#dtinker---discord-resources)
     - [Themes](#themes)
     - [Useful snippets](#useful-snippets)
 - [Template](#template)
@@ -44,6 +44,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ## Useful snippets
 
+- [benzarr410/beautifuldiscord-nametags](https://github.com/benzarr410/beautifuldiscord-nametags) - Allows you to add custom nametags to people. [Embed](https://cdn.rawgit.com/benzarr410/beautifuldiscord-nametags/master/examplenametag.css)
+    - **example:** [image](https://github.ratelimited.me/bc9a19.png)
 - [bubbie/classic-discord-profile](https://github.com/bubbie/classic-discord-profile) - Re-introduces the classic user profile before it became all white and ugly. [Embed](https://cdn.rawgit.com/bubbie/classic-discord-profile/master/stylesheet.css)
     - **example:** [image](https://owo.whats-th.is/ba3f27.png)
 - [jakeoid/disccord](https://github.com/jakeoid/disccord) - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
@@ -86,7 +88,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
     - **example:** [image](http://i.imgur.com/eJc5Eiu.png)
 - [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
     - **example:** [image](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.png)
-
+- [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://rawgit.com/DracoZ12/TotalDarkMode/master/theme.css)
+    - **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
 ## Template
 
 `* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
